@@ -1,0 +1,56 @@
+Relatório de Análise de Desempenho das Lojas — Challenge Alura Store.
+
+Neste relatório, o objetivo é mostrar de forma clara qual das quatro lojas o Senhor João deveria vender para conseguir investir em um novo negócio.
+
+Para tomar essa decisão, foram analisados vários pontos importantes sobre cada loja, como:
+- Quanto cada uma faturou no total;
+- Quais produtos vendem mais e menos;
+- As notas que os clientes deram nas avaliações;
+- O valor médio do frete.
+
+---------------------------------------------------------
+
+Durante a análise, foi possível perceber que, entre as quatro lojas, os resultados variam bastante.
+
+Faturamento total:
+A Loja 1 teve o melhor faturamento, somando R$ 1.534.509,12, seguida pela Loja 2 com R$ 1.488.459,06 e pela Loja 3 com R$ 1.464.025,03. Já a Loja 4 ficou em último, com R$ 1.384.497,58, mostrando o pior resultado em vendas.
+
+Categorias de produtos mais e menos vendidas:
+Em todas as lojas, a categoria "móveis" se destacou como a mais vendida:
+
+- Loja 1: 465 vendas de móveis.
+- Loja 2: 442 vendas de móveis.
+- Loja 3: 499 vendas de móveis.
+- Loja 4: 480 vendas de móveis.
+
+Já nas categorias menos vendidas
+
+- Loja 1: "Utilidades domésticas" foi a menos vendida (171 vendas).
+- Loja 2: "Utilidades domésticas" também teve o menor número (181 vendas).
+- Loja 3: "Instrumentos musicais" teve apenas 177 vendas.
+- Loja 4: "Instrumentos musicais" ficou em último, com 170 vendas.
+
+Média das avaliações dos clientes:
+A qualidade percebida pelos clientes também variou:
+
+- Loja 1: Nota média 3.977.
+- Loja 2: Nota média 4.037.
+- Loja 3: Nota média 4.048 (melhor média entre as quatro).
+- Loja 4: Nota média 3.996, ficando abaixo da média geral.
+
+Frete médio
+Quando olhamos para o valor médio do frete, o resultado foi:
+
+- Loja 1: R$ 34,69.
+- Loja 2: R$ 33,62.
+- Loja 3: R$ 33,07.
+- Loja 4: R$ 31,28 (menor frete entre as lojas).
+
+---------------------------------------------------------
+
+Depois de analisar todos os dados, fica claro que a Loja 4 teve o desempenho mais fraco no conjunto geral:
+- Foi a que menos faturou;
+- Teve uma média de avaliações abaixo das outras lojas;
+- Embora tenha um frete médio mais barato, não conseguiu se destacar nas vendas.
+
+Por isso, a recomendação é que o Senhor João venda a Loja 4.
